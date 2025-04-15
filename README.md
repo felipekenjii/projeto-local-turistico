@@ -3,4 +3,4 @@
 <img src="assets/thumbnail.jpg">
 <hr>
 <h2>Projeto no Figma</h2>
-<p>Clique <a href="https://www.figma.com/community/file/1384542229391733447/local-turistico">aqui</a>para acessar o projeto no figma.</p>
+<p>Clique <a href="https://www.figma.com/community/file/1384542229391733447/local-turistico">aqui</a> para acessar o projeto no figma.</p>
